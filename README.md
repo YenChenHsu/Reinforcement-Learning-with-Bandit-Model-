@@ -1,4 +1,4 @@
-# Reinforcement-Learning-for-Cost-Aware-A/Btesting-Problem-with-Bandit-Model
+# Reinforcement Learning for Cost Aware A/B testing Problem with Bandit-Model
 
 ## Problem Summary
 The challenge focuses on a cost-aware A/B testing problem where multiple treatment options are available, and subjects are assigned to these treatments to evaluate their effectiveness. The uniqueness of the problem lies in minimizing the costs associated with assigning subjects to less effective treatments as their effectiveness becomes apparent. This is achieved by dynamically adjusting the assignment of subjects based on ongoing observations of treatment effectiveness.
